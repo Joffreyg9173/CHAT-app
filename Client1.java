@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Client2 {
+public class Client1 {
     public static void main(String[] args) {
         Socket socket = null;
         InputStreamReader inputStreamReader = null;
