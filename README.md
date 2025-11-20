@@ -66,4 +66,5 @@ Phase 2: User Experience and Accessibility: Developing dedicated mobile clients 
 
 Phase 3: Scaling and Enterprise Security: Integrating End-to-End Encryption and transitioning to a distributed, clustered architecture for fault tolerance and high availability under massive load.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be699ef0-261c-4e71-b801-8cbdf1776097" />
+<img width="1920" height="997" alt="Снимок экрана (327)" src="https://github.com/user-attachments/assets/7be2f052-2558-4c2c-a5d1-6ef638d9d81d" />
+
