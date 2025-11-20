@@ -1,5 +1,3 @@
-Конечно. Вот готовый профессиональный текст README на английском языке, который идеально подойдет для вашего репозитория на GitHub и привлечет внимание инвесторов.
-
 🚀 Project "The Line": Real-Time Messaging Platform with Intelligent Routing
 🌟 Introduction
 The "The Line" project is a high-reliability, multi-user communication platform engineered for instantaneous messaging, featuring intelligent message routing and data persistence.
